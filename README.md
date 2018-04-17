@@ -1,5 +1,5 @@
 # mapa-setrans
-A remix of Setrans Map
+A remix of [Setrans Map](http://www.rio.rj.gov.br/web/pmus/mapa-da-rede-de-transportes)
 
 ![Original Setrans map](setrans-map.png)
 
@@ -11,8 +11,8 @@ A remix of Setrans Map
 - Vila Paciência and Cesarão 3 have been deactivated
 - Morro do Outeiro is integrated to Centro Olímpico
 - Teleférico do Alemão has been deactivated
-- Tom Jobim 1 has been deactivated
-- Tom Jobim 2 should be called Galeão / Tom Jobim 2
+- Tom Jobim 1 has been deactivated ✅
+- Tom Jobim 2 should be called Galeão / Tom Jobim 2 ✅
 - Pavuna should be called Pavuna / São João de Meriti
 - Gramacho transfer station
 - Santa Cruz is direct from Central, without change on Deodoro
