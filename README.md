@@ -9,7 +9,7 @@ A remix of [Setrans Map](http://www.rio.rj.gov.br/web/pmus/mapa-da-rede-de-trans
 - Transbrasil is not completed
 - BRT Deodoro is not completed
 - Vila Paciência and Cesarão 3 have been deactivated ✅
-- Morro do Outeiro is integrated to Centro Olímpico
+- Morro do Outeiro is integrated to Centro Olímpico ✅
 - Teleférico do Alemão has been deactivated ✅
 - Tom Jobim 1 has been deactivated ✅
 - Tom Jobim 2 should be called Galeão / Tom Jobim 2 ✅
