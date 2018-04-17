@@ -9,6 +9,7 @@ A remix of [Setrans Map](http://www.rio.rj.gov.br/web/pmus/mapa-da-rede-de-trans
 - Transbrasil is not completed
 - BRT Deodoro is not completed
 - Magalhães Bastos SuperVia/BRT are integrated ✅
+- Campo Grande SuperVia/BRT are integrated ✅
 - Vila Paciência and Cesarão 3 have been deactivated ✅
 - Morro do Outeiro is integrated to Centro Olímpico ✅
 - Teleférico do Alemão has been deactivated ✅
