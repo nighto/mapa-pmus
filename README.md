@@ -20,6 +20,6 @@ A remix of [Setrans Map](http://www.rio.rj.gov.br/web/pmus/mapa-da-rede-de-trans
 - Pavuna should be called Pavuna / São João de Meriti ✅
 - Gramacho transfer station ✅
 - Santa Cruz is direct from Central, without change on Deodoro
-- Subway lines 1 and 4 are without transfer in General Osório
+- Subway lines 1 and 4 are without transfer in General Osório ✅
 - Subway line 2 goes to Estácio on weekends
 - Wrong colors
