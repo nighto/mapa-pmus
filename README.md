@@ -18,7 +18,7 @@ A remix of [Setrans Map](http://www.rio.rj.gov.br/web/pmus/mapa-da-rede-de-trans
 - Tom Jobim 2 should be called Galeão / Tom Jobim 2 ✅
 - Cascadura has no stop of express trains anymore ✅
 - Pavuna should be called Pavuna / São João de Meriti ✅
-- Gramacho transfer station
+- Gramacho transfer station ✅
 - Santa Cruz is direct from Central, without change on Deodoro
 - Subway lines 1 and 4 are without transfer in General Osório
 - Subway line 2 goes to Estácio on weekends
