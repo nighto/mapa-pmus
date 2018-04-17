@@ -1,5 +1,5 @@
 # mapa-setrans
-A remix of [Setrans Map](http://www.rio.rj.gov.br/web/pmus/mapa-da-rede-de-transportes)
+A remix of [Setrans Map](http://www.rio.rj.gov.br/web/pmus/mapa-da-rede-de-transportes), removing all lines and station that have been deactivated, destroyed, or simply not in operation.
 
 ![Original Setrans map](setrans-map.png)
 
