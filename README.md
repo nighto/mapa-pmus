@@ -8,6 +8,7 @@ A remix of [Setrans Map](http://www.rio.rj.gov.br/web/pmus/mapa-da-rede-de-trans
 - Gávea is not completed ✅
 - Transbrasil is not completed ✅
 - BRT Deodoro is not completed ✅
+- VLT Line 3 is not completed ✅
 - Magalhães Bastos SuperVia/BRT are integrated ✅
 - Campo Grande SuperVia/BRT are integrated ✅
 - Vila Paciência and Cesarão 3 have been deactivated ✅
