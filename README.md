@@ -16,6 +16,7 @@ A remix of [Setrans Map](http://www.rio.rj.gov.br/web/pmus/mapa-da-rede-de-trans
 - Teleférico do Alemão has been deactivated ✅
 - Tom Jobim 1 has been deactivated ✅
 - Tom Jobim 2 should be called Galeão / Tom Jobim 2 ✅
+- Cascadura has no stop of express trains anymore ✅
 - Pavuna should be called Pavuna / São João de Meriti
 - Gramacho transfer station
 - Santa Cruz is direct from Central, without change on Deodoro
