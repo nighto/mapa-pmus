@@ -23,4 +23,5 @@ A remix of [Setrans Map](http://www.rio.rj.gov.br/web/pmus/mapa-da-rede-de-trans
 - ✅ Subway lines 1 and 4 are without transfer in General Osório
 - ✅ Subway line 2 goes to Estácio on weekends
 - Santa Cruz is direct from Central, without change on Deodoro
+- Add VLT stops
 - Wrong colors
