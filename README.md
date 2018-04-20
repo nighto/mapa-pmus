@@ -1,7 +1,7 @@
-# mapa-setrans
-A remix of [Setrans/PMUS Transport Network Map](http://www.rio.rj.gov.br/web/pmus/mapa-da-rede-de-transportes), removing all lines and stations that are under construction or have been deactivated.
+# mapa-pmus
+A remix of [PMUS Transport Network Map](http://www.rio.rj.gov.br/web/pmus/mapa-da-rede-de-transportes), removing all lines and stations that are under construction or have been deactivated.
 
-![Original Setrans map](setrans-map.png)
+![The map](map.png)
 
 ## Changes / To-Do
 
