@@ -23,6 +23,6 @@ A remix of [Setrans/PMUS Transport Network Map](http://www.rio.rj.gov.br/web/pmu
 - ✅ Subway lines 1 and 4 are without transfer in General Osório
 - ✅ Subway line 2 goes to Estácio on weekends
 - ✅ Santa Cruz is direct from Central, without change on Deodoro
-- MetrôRio between Maracanã and Triagem goes behind SuperVia tracks, not above.
+- ✅ MetrôRio between Maracanã and Triagem goes behind SuperVia tracks, not above.
 - Add VLT stops
 - Wrong colors
